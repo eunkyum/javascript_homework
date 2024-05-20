@@ -8,6 +8,7 @@ document.addEventListener('DOMContentLoaded', () => {
   });
 });
 
+// 2.
 function getSquare(number) {
   return number * number;
 }
