@@ -1,0 +1,19 @@
+.people-container {
+  max-width: 600px;
+  margin: auto;
+  padding: 20px;
+}
+
+.people {
+  border-bottom: 1px solid #ccc;
+  padding: 10px 0;
+}
+
+.people:last-child {
+  border-bottom: none;
+}
+
+h3 {
+  margin: 4px 0;
+  font-size: 14px;
+}
